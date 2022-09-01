@@ -1,0 +1,16 @@
+odoo-addon-account-cutoff-accrual-picking>=15.0
+odoo-addon-account-cutoff-base>=15.0
+odoo-addon-account-financial-report>=15.0
+odoo-addon-account-cutoff-start-end-dates>=15.0
+odoo-addon-account-statement-import>=15.0
+odoo-addon-account-statement-import-camt>=15.0
+odoo-addon-account-statement-import-camt54>=15.0
+odoo-addon-bi-sql-editor>=15.0
+odoo-addon-date-range>=15.0
+odoo-addon-mail-outbound-static>=15.0
+odoo-addon-mis-builder>=15.0
+odoo-addon-mis-builder-budget>=15.0
+odoo-addon-report-wkhtmltopdf-param>=15.0
+odoo-addon-report-xlsx>=15.0
+odoo-addon-sql-request-abstract>=15.0
+odoo-addon-web-advanced-search>=15.0
